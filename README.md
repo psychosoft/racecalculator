@@ -3,7 +3,7 @@
 -Racecalculator will extract and sort teams by the least total score (time)
  given A vector of Races.
 
--It will include at least one female per team.
+-It will exlude teams that does not live up to the mixed criteria or RaceCalculatorUtil.numTopRidersPerTeam.
 
 -Genders are mapped to classId in the RaceCalculatorUtil.classGenderMap
 
